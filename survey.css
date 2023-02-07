@@ -6,7 +6,7 @@
 .logo-1{
     width: 70px;
     height: 40px;
-    border-radius:27px ;
+    border-radius:29px ;
     object-fit: cover;
     align-items: center;
 }
@@ -32,7 +32,7 @@ nav{
 }
 
 ul{
-    /* list-style: none; */
+    list-style: none;
     display: flex;
     align-items: center;
     font-size: 20px;
@@ -47,7 +47,7 @@ cursor: pointer;
 }
 
 li:hover:nth-child(odd){
-    background-color: rgb(240, 233, 233);
+    /* background-color: rgb(240, 233, 233); */
     text-decoration: underline;
 }
 
@@ -60,7 +60,7 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 .main-container{
-    background-color: rgb(96, 192, 51);
+    background-color: rgb(174, 212, 155);
     width: 540px;
     height: 180vh;
     margin: 50px auto; }
@@ -90,14 +90,14 @@ select{
 .comments{
     width: 90%;
     height: 50px;
-    border: 1px solid grey;
+    border: 2px solid grey;
     border-radius: 5px;
     outline: none; }
-
+    
 h3 {
     background-color: white;
     border-radius: 4px;
-    height:40px;
+    height:38px;
     width: 90%;
     padding: 10px 0;
     text-align: center; }
