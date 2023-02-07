@@ -62,8 +62,9 @@ h1{
 .main-container{
     background-color: rgb(174, 212, 155);
     width: 540px;
-    height: 180vh;
+    height:1150px ;
     margin: 50px auto; }
+    
 
 #form-container {
     text-align: left;
@@ -83,7 +84,7 @@ h1{
     outline: navy; }
 
 select{
-    width: 40%;
+    width: 50%;
     height: 30px; }
 
 
